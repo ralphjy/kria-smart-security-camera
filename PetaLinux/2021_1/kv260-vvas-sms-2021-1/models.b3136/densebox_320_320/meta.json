@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "densebox_320_320.xmodel",
+    "kernel": [
+        "subgraph_L0"
+    ],
+    "target": "DPUCZDX8G_ISA0_B3136_MAX_BG2"
+}

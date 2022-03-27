@@ -1,0 +1,11 @@
+g++ -std=c++17 -O3 ~/kria_smart_security_camera/main.cpp -o ~/kria_smart_security_camera/kria_detection \
+   -I/usr/include/opencv4 \
+   -lpthread \
+   -lopencv_core \
+   -lopencv_video \
+   -lopencv_videoio \
+   -lopencv_imgproc \
+   -lopencv_imgcodecs \
+   -lopencv_highgui \
+   -lvitis_ai_library-refinedet \
+   -lvitis_ai_library-facedetect

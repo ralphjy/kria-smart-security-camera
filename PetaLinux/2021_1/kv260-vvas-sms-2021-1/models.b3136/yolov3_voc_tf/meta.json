@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "yolov3_voc_tf.xmodel",
+    "kernel": [
+        "subgraph_add_1\/add"
+    ],
+    "target": "DPUCZDX8G_ISA0_B3136_MAX_BG2"
+}

@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "inception_v1.xmodel",
+    "kernel": [
+        "subgraph_conv1\/7x7_s2"
+    ],
+    "target": "DPUCZDX8G_ISA0_B3136_MAX_BG2"
+}

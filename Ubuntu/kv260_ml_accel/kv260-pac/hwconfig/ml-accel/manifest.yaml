@@ -1,0 +1,5 @@
+name: ml-accel
+description: KV260 ML inference accelerator (B4096 DPU + Vitis Vision xf::cv::resize)
+revision: 1.0
+assets:
+    kv260: kv260
